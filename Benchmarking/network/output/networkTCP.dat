@@ -1,0 +1,7 @@
+/exports/home/averma16/pa1/network/./TCP_2.sh: line 7:  9427 Segmentation fault      (core dumped) ./MyNETBench-TCP $FILE -S
+/exports/home/averma16/pa1/network/./TCP_2.sh: line 7:  9433 Segmentation fault      (core dumped) ./MyNETBench-TCP $FILE -S
+/exports/home/averma16/pa1/network/./TCP_2.sh: line 7:  9445 Segmentation fault      (core dumped) ./MyNETBench-TCP $FILE -S
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 24645 ON redcompute-5 CANCELLED AT 2018-03-28T00:55:53 ***
+srun: error: redcompute-6: task 1: Terminated
+slurmstepd: error: *** STEP 24645.0 ON redcompute-5 CANCELLED AT 2018-03-28T00:55:53 ***

@@ -1,0 +1,24 @@
+This is a SAMPLE run script for running a shared-memory version of
+Intel(R) Distribution for LINPACK* Benchmark. Change it to reflect
+the correct number of CPUs/threads, problem input files, etc..
+*Other names and brands may be claimed as the property of others.
+./linpack/runme_xeon64: 35: [: -gt: unexpected operator
+./linpack/runme_xeon64: 45: ./linpack/runme_xeon64: ./xlinpack_xeon64: not found
+Mon Mar 26 20:01:56 UTC 2018
+Done: Mon Mar 26 20:01:56 UTC 2018
+This is a SAMPLE run script for running a shared-memory version of
+Intel(R) Distribution for LINPACK* Benchmark. Change it to reflect
+the correct number of CPUs/threads, problem input files, etc..
+*Other names and brands may be claimed as the property of others.
+./linpack/runme_xeon64: 35: [: -gt: unexpected operator
+./linpack/runme_xeon64: 45: ./linpack/runme_xeon64: ./xlinpack_xeon64: not found
+Mon Mar 26 20:01:56 UTC 2018
+Done: Mon Mar 26 20:01:56 UTC 2018
+This is a SAMPLE run script for running a shared-memory version of
+Intel(R) Distribution for LINPACK* Benchmark. Change it to reflect
+the correct number of CPUs/threads, problem input files, etc..
+*Other names and brands may be claimed as the property of others.
+./linpack/runme_xeon64: 35: [: -gt: unexpected operator
+./linpack/runme_xeon64: 45: ./linpack/runme_xeon64: ./xlinpack_xeon64: not found
+Mon Mar 26 20:01:56 UTC 2018
+Done: Mon Mar 26 20:01:56 UTC 2018
